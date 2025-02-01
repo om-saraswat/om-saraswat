@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Om Saraswat</h1>
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=om__saraswat&label=Profile%20views&color=0e75b6&style=flat" alt="Om's Profile Views" />
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/om-saraswat/">
-        <img src="https://img.shields.io/badge/-OmSaraswat-blue?style=flat&logo=Linkedin&logoColor=white" alt="Om's LinkedIn" />
+        <img src="https://img.shields.io/badge/-om-saraswat-blue?style=flat&logo=Linkedin&logoColor=white" alt="Om's LinkedIn" />
 <!--         dikkat ho sakti hai uper -->
     </a>
 </p>
