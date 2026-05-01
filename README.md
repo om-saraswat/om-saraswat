@@ -11,7 +11,7 @@
     </a>
 </p>
 
-- 📫 Also available at **your-email@example.com**
+- 📫 Also available at **sharmaom27022004@gmail.com**
 
 ---
 
@@ -27,8 +27,5 @@
     <img src="https://leetcard.jacoblin.cool/omsaraswat?theme=dark&font=Ubuntu&ext=heatmap" alt="Leetcode Stats">
 </a>
 
-<a href="#">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=omsaraswat&theme=dark&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats">
-</a>
 
 ---
